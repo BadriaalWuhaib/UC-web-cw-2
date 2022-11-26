@@ -1,0 +1,20 @@
+.mc{
+    color: #A288A6;
+    text-align: center;
+}
+
+div{
+    background-color: #A288A6;
+    color: white;
+    
+}
+
+.card{
+    width: 500px;
+    background-color: #A288A6;
+    text-align: center;
+}
+
+#dish-name{
+    color: white;
+}

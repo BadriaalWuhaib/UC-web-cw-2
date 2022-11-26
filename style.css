@@ -1,0 +1,22 @@
+.happy{
+    font-size: 64px;
+    font-style: oblique;
+    color:black; 
+    text-align: center;
+    
+}
+body{
+    
+    color: beige;
+}
+
+div{
+   font-style: inherit;
+    background-color:#A288A6;
+    color: beige;
+    
+}
+
+h1{
+    text-align: center;
+}
